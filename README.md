@@ -10,4 +10,4 @@ Para a utilização:
 
 Funcionalidades da agenda de contatos
 
-- Cadastra, atualiza, excluir, pesquisa, listagem e navegação (anterior e próximo) contatos com foto. 
+- Cadastrar, atualizar, excluir, pesquisar, listagem e navegação (anterior e próximo) contatos com foto. 
