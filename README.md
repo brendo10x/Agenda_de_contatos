@@ -4,9 +4,7 @@ Agenda de contatos
 A agenda de contatos utiliza Java e Mysql
 
 Trabalho do 2° Semestre 02/11/2012 - FJN - SI - Programação 2.
-
-O sistema utiliza Java SE e Mysql.
-
+ 
 Para a utilização:
 
 - 1- Criar um banco de dados chamado "banco_agenda" de preferência no Mysql, usuário: root, senha:"".
