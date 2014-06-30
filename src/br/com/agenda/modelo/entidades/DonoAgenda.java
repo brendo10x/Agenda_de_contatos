@@ -2,6 +2,8 @@ package br.com.agenda.modelo.entidades;
 
 public class DonoAgenda {
 
+	//Dono o bixo é o cão mermo
+	
 	private int id_dono_agenda;
 	private String nome_dono_agenda;
 	private byte[] foto_dono_agenda;
